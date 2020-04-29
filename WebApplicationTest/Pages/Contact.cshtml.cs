@@ -12,7 +12,7 @@ namespace WebApplicationTest.Pages
 
         public void OnGet()
         {
-            Message = "Your contact page.";
+            Message = "Call or write to German Velez";
         }
     }
 }

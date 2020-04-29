@@ -12,7 +12,7 @@ namespace WebApplicationTest.Pages
 
         public void OnGet()
         {
-            Message = "Your application description page.";
+            Message = "When in doubt, go straight.";
         }
     }
 }
