@@ -1127,6 +1127,9 @@ img {
 .img-rounded {
   border-radius: 6px;
 }
+.button-rounded {
+   border-radius:30%
+}
 .img-thumbnail {
   display: inline-block;
   max-width: 100%;
